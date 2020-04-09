@@ -1,3 +1,3 @@
 # PDFGenerator
-Download zip file in webMethods Integration server
-Release from IS Admin page
+1) Download zip file in webMethods Integration server
+2) Release from IS Admin page
